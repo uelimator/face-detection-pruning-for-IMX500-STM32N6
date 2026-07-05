@@ -50,3 +50,10 @@ deploy*.log
 *.d
 *.map
 *.obj
+
+# --- models/ contains committed reference artifacts (override the global ignores) ---
+!models/
+!models/*.onnx
+!models/*.onnx.data
+!models/*.pt
+!models/*.pth
