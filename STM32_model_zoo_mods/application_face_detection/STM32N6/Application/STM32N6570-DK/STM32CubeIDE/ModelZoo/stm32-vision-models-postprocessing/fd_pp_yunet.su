@@ -1,0 +1,8 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:24:16:fd_nms_comparator	0	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:214:16:fd_pp_level_decode_and_store.isra	80	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:142:16:fd_pp_level_decode_and_store_is8.isra	112	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:113:16:fd_pp_scoreFiltering_centroid.isra	36	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:58:16:fd_pp_nmsFiltering_centroid.isra	48	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:411:9:fd_yunet_pp_reset	0	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:420:9:fd_yunet_pp_process_int8	56	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_yunet.c:459:9:fd_yunet_pp_process	40	static

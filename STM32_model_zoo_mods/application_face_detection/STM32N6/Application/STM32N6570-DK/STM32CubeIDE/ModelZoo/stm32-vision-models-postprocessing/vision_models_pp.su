@@ -1,0 +1,12 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:14:11:vision_models_sigmoid_f	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:20:6:vision_models_softmax_f	40	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:46:11:overlap	0	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:58:11:box_intersection	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:68:11:box_union	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:76:11:vision_models_box_iou	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:87:9:twice_overlap_int	12	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:99:9:box_intersection_is8	16	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:109:9:box_union_is8	16	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:117:11:vision_models_box_iou_is8	40	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:130:6:transpose_flattened_2D	24	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp.c:151:6:dequantize	8	static

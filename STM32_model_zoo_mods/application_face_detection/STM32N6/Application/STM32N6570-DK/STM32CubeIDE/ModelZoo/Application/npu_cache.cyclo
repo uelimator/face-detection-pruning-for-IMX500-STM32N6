@@ -1,0 +1,9 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:47:6:npu_cache_enable	3
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:60:6:npu_cache_disable	4
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:72:6:npu_cache_invalidate	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:80:6:npu_cache_clean_range	2
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:91:6:npu_cache_clean_invalidate_range	2
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:120:13:npu_cache_enable_clocks_and_reset	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:105:6:HAL_CACHEAXI_MspInit	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:121:13:npu_cache_disable_clocks_and_reset	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/npu_cache.c:111:6:HAL_CACHEAXI_MspDeInit	1

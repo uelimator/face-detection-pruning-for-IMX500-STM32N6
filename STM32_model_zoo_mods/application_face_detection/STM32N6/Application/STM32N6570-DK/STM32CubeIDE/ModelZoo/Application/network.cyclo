@@ -1,0 +1,17 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:375:13:_ec_blob_cache_start_func_37	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:264:13:_ec_blob_cache_start_func_29	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:153:13:_ec_blob_cache_start_func_1	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:280:13:LL_ATON_End_EpochBlock_36	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:169:13:LL_ATON_End_EpochBlock_28	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:88:36:LL_ATON_WeightEncryption_Info_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:97:36:LL_ATON_BlobEncryption_Info_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:106:26:LL_ATON_Set_User_Input_Buffer_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:117:7:LL_ATON_Get_User_Input_Buffer_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:126:26:LL_ATON_Set_User_Output_Buffer_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:137:7:LL_ATON_Get_User_Output_Buffer_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network_ecblobs.h:2652:6:LL_ATON_EC_Network_Init_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network_ecblobs.h:2658:6:LL_ATON_EC_Inference_Init_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:402:36:LL_ATON_EpochBlockItems_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:481:30:LL_ATON_Input_Buffers_Info_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:2092:30:LL_ATON_Output_Buffers_Info_network	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Model/STM32N6570-DK/network.c:2433:30:LL_ATON_Internal_Buffers_Info_network	1

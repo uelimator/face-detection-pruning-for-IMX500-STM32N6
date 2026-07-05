@@ -1,0 +1,17 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:135:13:_stai_aton_internal_rt_callback	2
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:144:6:_stai_aton_internal_epoch_block_callback	2
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:161:18:stai_runtime_set_callback	2
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:172:18:stai_runtime_init	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:186:18:stai_runtime_deinit	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:235:18:stai_runtime_get_info	2
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:272:18:stai_cache_mcu_clean_range	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:279:18:stai_cache_mcu_invalidate_range	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:286:18:stai_ext_cache_npu_clean_range	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:293:18:stai_ext_cache_npu_clean_invalidate_range	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:302:18:stai_ext_wfe	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:312:6:__ll_aton_stai_init_network_instance	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:321:6:__ll_aton_stai_deinit_network_instance	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:330:6:__ll_aton_stai_set_execution_status	4
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:352:18:__ll_aton_stai_get_execution_status	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:383:18:__ll_aton_stai_reset	6
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_stai_internal.c:403:18:__ll_aton_stai_run	9

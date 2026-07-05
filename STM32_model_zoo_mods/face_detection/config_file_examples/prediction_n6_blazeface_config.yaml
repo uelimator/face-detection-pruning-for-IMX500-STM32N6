@@ -1,0 +1,47 @@
+general:
+  display_figures: True
+
+model:
+  model_path: ../../stm32ai-modelzoo/face_detection/facedetect_front/Public_pretrainedmodel_public_dataset/widerface/blazeface_front_128/blazeface_front_128_int8.tflite
+  model_type: facedetect_front
+
+operation_mode: prediction
+
+prediction:
+  profile: profile_O3
+  input_type: float32     # int8 / uint8 / float32
+  output_type: float32     # int8 / uint8 / float32
+  input_chpos: chlast   # chlast / chfirst
+  output_chpos: chlast  # chlast / chfirst
+  target: stedgeai_n6 # host, stedgeai_host, stedgeai_n6
+
+dataset:
+  class_names: [person]
+  prediction_path: ./datasets/pred
+
+preprocessing:
+  rescaling: { scale: 1/255, offset: 0 }
+  resizing:
+    aspect_ratio: fit
+    interpolation: bilinear
+  color_mode: rgb
+
+postprocessing:
+  confidence_thresh: 0.5
+  NMS_thresh: 0.5
+  IoU_eval_thresh: 0.5
+  plot_metrics: True   # Plot precision versus recall curves. Default is False.
+  max_detection_boxes: 10
+  #crop_stretch_percents: [0,40,0,40] #List of 4 floats (stretch_xmin%, stretch_ymin%, stretch_xmax%, stretch_ymax%) representing the stretch percentage for each coordinate.
+
+tools:
+   stedgeai:
+      path_to_stedgeai: C:/ST/STEdgeAI/4.0/Utilities/windows/stedgeai.exe
+
+mlflow:
+  uri: ./tf/src/experiments_outputs/mlruns
+
+hydra:
+  run:
+    dir: ./tf/src/experiments_outputs/${now:%Y_%m_%d_%H_%M_%S}
+    

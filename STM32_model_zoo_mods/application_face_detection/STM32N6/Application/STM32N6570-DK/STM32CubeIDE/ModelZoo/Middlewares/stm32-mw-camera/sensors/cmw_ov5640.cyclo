@@ -1,0 +1,8 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:35:16:CMW_OV5640_GetSensorInfo	3
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:110:16:CMW_OV5640_ReadID	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:115:16:CMW_OV5640_SetMirrorFlip	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:98:16:CMW_OV5640_DeInit	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:189:16:CMW_OV5640_Start	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:121:16:CMW_OV5640_Init	20
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:183:6:CMW_OV5640_SetDefaultSensorValues	1
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/cmw_ov5640.c:206:5:CMW_OV5640_Probe	3

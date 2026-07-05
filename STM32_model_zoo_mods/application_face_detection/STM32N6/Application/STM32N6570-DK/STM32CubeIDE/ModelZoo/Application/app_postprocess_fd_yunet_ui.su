@@ -1,0 +1,3 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/ai-postprocessing-wrapper/sort.h:26:12:compare_order_by_ascending_order	20	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/ai-postprocessing-wrapper/app_postprocess_fd_yunet_ui.c:41:9:app_postprocess_init	24	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/ai-postprocessing-wrapper/app_postprocess_fd_yunet_ui.c:98:9:app_postprocess_run	56	static

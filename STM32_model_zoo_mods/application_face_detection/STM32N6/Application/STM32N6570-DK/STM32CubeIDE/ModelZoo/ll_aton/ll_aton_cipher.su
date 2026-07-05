@@ -1,0 +1,6 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_cipher.c:64:5:LL_Streng_EncryptionInit	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_cipher.c:106:5:LL_Busif_SetKeys	12	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_cipher.c:151:5:LL_EpochCtrl_EncryptionInit	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_cipher.c:181:5:LL_DmaCypherInit	200	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_cipher.c:316:5:LL_ExtDmaCypherInit	240	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/ll_aton/ll_aton_cipher.c:517:6:LL_ATON_DecryptAndCopy	48	static

@@ -1,0 +1,14 @@
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:679:22:LL_MEM_EnableClock	8	static
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:785:22:LL_MEM_EnableClockLowPower	8	static
+../../../../STM32Cube_FW_N6/Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2065:22:LL_AHB5_GRP1_EnableClockLowPower	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:431:12:clamp_point	20	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:701:13:SystemClock_Config	632	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:526:13:Metric_Update	48	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:423:6:IAC_IRQHandler	0	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:480:6:Display_Face	64	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:156:5:main	344	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:674:19:MX_DCMIPP_ClockConfig	408	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:835:5:_write	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:849:6:npu_cache_enable_clocks_and_reset	16	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:857:6:npu_cache_disable_clocks_and_reset	0	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Application/STM32N6570-DK/Src/main.c:873:6:assert_failed	0	static,ignoring_inline_asm

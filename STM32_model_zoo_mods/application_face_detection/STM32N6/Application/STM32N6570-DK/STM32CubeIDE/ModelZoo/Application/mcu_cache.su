@@ -1,0 +1,6 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/mcu_cache.c:29:6:mcu_cache_invalidate	16	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/mcu_cache.c:36:6:mcu_cache_clean	16	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/mcu_cache.c:43:6:mcu_cache_clean_invalidate	16	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/mcu_cache.c:50:6:mcu_cache_invalidate_range	8	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/mcu_cache.c:57:6:mcu_cache_clean_range	8	static,ignoring_inline_asm
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stedgeai-lib/Npu/Devices/STM32N6xx/mcu_cache.c:63:6:mcu_cache_clean_invalidate_range	8	static,ignoring_inline_asm

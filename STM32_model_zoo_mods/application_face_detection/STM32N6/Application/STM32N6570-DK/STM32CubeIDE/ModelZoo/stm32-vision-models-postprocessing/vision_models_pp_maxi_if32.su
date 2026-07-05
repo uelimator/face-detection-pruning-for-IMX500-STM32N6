@@ -1,0 +1,6 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp_maxi_if32.c:14:6:vision_models_maxi_if32ou32	32	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp_maxi_if32.c:70:6:vision_models_maxi_tr_if32ou32	48	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp_maxi_if32.c:132:6:vision_models_maxi_p_if32ou32	48	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp_maxi_if32.c:181:6:vision_models_maxi_p_if32ou16	48	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp_maxi_if32.c:230:6:vision_models_maxi_p_if32ou8	48	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/vision_models_pp_maxi_if32.c:283:6:vision_models_maxi_tr_p_if32ou32	32	static

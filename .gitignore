@@ -42,3 +42,11 @@ deploy*.log
 # --- IDEs ---
 .idea/
 .vscode/
+
+# --- C/C++ build intermediates ---
+*.o
+*.a
+*.la
+*.d
+*.map
+*.obj

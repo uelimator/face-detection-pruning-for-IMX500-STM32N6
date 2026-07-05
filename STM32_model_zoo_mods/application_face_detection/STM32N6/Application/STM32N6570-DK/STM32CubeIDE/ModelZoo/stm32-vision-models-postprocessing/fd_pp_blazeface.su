@@ -1,0 +1,4 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_blazeface.c:26:16:fd_nms_comparator	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_blazeface.c:150:16:fd_pp_level_decode_and_store_is8.isra	72	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_blazeface.c:275:9:fd_blazeface_pp_reset	0	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-vision-models-postprocessing/lib_vision_models_pp/Src/fd_pp_blazeface.c:280:9:fd_blazeface_pp_process_int8	64	static

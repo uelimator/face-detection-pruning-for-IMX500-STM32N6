@@ -1,0 +1,2 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/ov5640/ov5640_reg.c:45:9:ov5640_read_reg	4	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/sensors/ov5640/ov5640_reg.c:58:9:ov5640_write_reg	4	static

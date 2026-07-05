@@ -1,0 +1,34 @@
+
+general:
+  gpu_memory_limit: 16
+
+operation_mode: evaluation
+
+model:
+  model_path: ../../stm32ai-modelzoo/face_detection/yunet/Public_pretrainedmodel_public_dataset/widerface/yunetn_320/yunetn_320_qdq_int8.onnx
+  model_type: yunet
+
+dataset:
+  class_names: [person]
+  test_path: /local/data/od_wider_face/test
+
+preprocessing:
+  rescaling: { scale: 1, offset: 0 }
+  resizing:
+    aspect_ratio: fit
+    interpolation: bilinear
+  color_mode: bgr
+  
+postprocessing:
+  confidence_thresh: 0.001
+  NMS_thresh: 0.5
+  IoU_eval_thresh: 0.5
+  plot_metrics: True   # Plot precision versus recall curves. Default is False.
+  max_detection_boxes: 100
+  
+mlflow:
+   uri: ./tf/src/experiments_outputs/mlruns
+
+hydra:
+   run:
+      dir: ./tf/src/experiments_outputs/${now:%Y_%m_%d_%H_%M_%S}

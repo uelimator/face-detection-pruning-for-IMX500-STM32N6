@@ -1,0 +1,43 @@
+operation_mode: deployment
+
+model:
+  model_path: C:/FD/models/pruned_yunet_structured_int8_20_06.onnx
+  model_type: yunet
+
+dataset:
+   class_names: [face]
+
+preprocessing:
+  resizing:
+    aspect_ratio: fit
+    interpolation: bilinear
+  color_mode: bgr
+
+postprocessing:
+  confidence_thresh: 0.5
+  NMS_thresh: 0.5
+  IoU_eval_thresh: 0.5
+  max_detection_boxes: 10
+  crop_stretch_percents: [0,40,0,40] #List of 4 floats (stretch_xmin%, stretch_ymin%, stretch_xmax%, stretch_ymax%) representing the stretch percentage for each coordinate.
+
+tools:
+   stedgeai:
+      optimization: balanced
+      on_cloud: False
+      path_to_stedgeai: C:/ST/STEdgeAI/4.0/Utilities/windows/stedgeai.exe
+   path_to_cubeIDE: C:/ST/STM32CubeIDE_2.1.1/STM32CubeIDE/stm32cubeide.exe
+
+deployment:
+  c_project_path: ../application_code/face_detection/STM32N6/
+  IDE: GCC
+  verbosity: 1
+  hardware_setup:
+    serie: STM32N6
+    board: STM32N6570-DK
+
+mlflow:
+   uri: experiments_outputs/mlruns
+
+hydra:
+   run:
+      dir: experiments_outputs/${now:%Y_%m_%d_%H_%M_%S}

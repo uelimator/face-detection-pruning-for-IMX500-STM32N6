@@ -1,0 +1,2 @@
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/ISP_Library/isp/Src/isp_ae_algo.c:69:6:isp_ae_init	8	static
+C:/FD/stm32ai-modelzoo-services/application_code/face_detection/STM32N6/Middlewares/stm32-mw-camera/ISP_Library/isp/Src/isp_ae_algo.c:200:6:isp_ae_get_new_exposure	136	static
