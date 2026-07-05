@@ -94,3 +94,6 @@ pip install -r requirements-sony.txt
 ### Deployment (IMX500 side)
 - `IMX500/model_stream.py` — picamera2 app: MJPEG stream over HTTP with face-detection overlays + performance HUD (avg/p95/p99 DNN latency)
 - `IMX500/parse_metrics.py` — session-level statistics from the metrics log
+
+## Deployment (STM32N6)
+The whole deployment is based on the orignial repo from STM32 (https://github.com/STMicroelectronics/stm32ai-modelzoo) and just has some odifications for additional telemetry and implementing the fix where the application code gets aligned to 0x400.
