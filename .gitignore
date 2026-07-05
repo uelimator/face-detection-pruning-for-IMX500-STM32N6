@@ -1,0 +1,44 @@
+# --- Python / OS ---
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+
+# --- venvs ---
+.venv/
+venv/
+fdvenv/
+fdvenv39/
+sonyvenv/
+.stvenv/
+
+# --- ML artifacts (regenerate from source, don't commit) ---
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.onnx.data
+*.tflite
+*.rpk
+
+# --- run outputs ---
+pruning/logs/
+pruning/architecture/
+pruning/converter_out*/
+sony_reexport/converter_out*/
+converter_out*/
+calibration/calib_images_320/
+calibration/calib_images_*/
+evaluate/wider_transform_demo/
+libfd_validation/out_*/
+
+# --- benchmark / metrics results (regeneratable, keep out of the repo) ---
+bench_results*.csv
+inference_metrics*.log
+IMX500/inference_metrics*.log
+deploy*.log
+
+# --- IDEs ---
+.idea/
+.vscode/

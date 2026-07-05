@@ -1,0 +1,14 @@
+# Core pruning + quantization + PC-side evaluation.
+# Sufficient for everything except sony_reexport/quantize_yunet.py (see requirements-sony.txt).
+
+torch>=2.0
+torch_pruning>=1.5
+numpy>=1.24
+onnx>=1.15
+onnxruntime>=1.16
+opencv-python>=4.8
+matplotlib>=3.7
+pandas>=2.0
+scipy>=1.11
+tqdm>=4.65
+Cython>=0.29                # for evaluate/WiderFace-Evaluation-master

@@ -1,0 +1,10 @@
+# Extra deps for the Sony IMX500-targeted MCT quantization path
+# (sony_reexport/quantize_yunet.py + imxconv-pt).
+# Install ON TOP of requirements.txt.
+
+model_compression_toolkit>=2.5
+edgemdt_tpc>=1.0
+mct_quantizers>=1.6
+onnx2torch>=1.5
+OpenEXR>=3.2
+imx500-converter>=3.18       # provides imxconv-pt CLI
